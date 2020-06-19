@@ -13,7 +13,11 @@
 ## How to start using this material
 
 1. Log in [notebooks.azure.com](https://notebooks.azure.com/) (top right corner, `Sign In`) with your `@charite.de` email and password.
-2. Once you see your user profile, go to [notebooks.azure.com/jaime-rodriguez/projects/ai-in-medicine](https://notebooks.azure.com/jaime-rodriguez/projects/ai-in-medicine).
-3. In this page, click on `Clone` (top right corner) to create a copy in your account.
-4. After a few moments, you will see the project in your workspace. Click on the first notebook to start!
-5. For the successive days, you will be able to go directly to your imported project without repeating steps 1-4.
+2. Once you see your user profile, click on `See all`, on your right.
+3. In this page, press `Upload GitHub repo` and provide this information:
+    * GitHub repository: `volkamerlab/ai_in_medicine`
+4. Press `Import`.
+5. After a few moments, you will see the project in your workspace. Click on the first notebook to start!
+6. For the successive days, you will be able to go directly to your imported project without repeating steps 1-4.
+
+> __Note__: The Jupyter environment will start immediately but some software must be installed in the background for the code to work correctly. Please, start the environment ~10 minutes before the practical lessons start (except for the first day).
