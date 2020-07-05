@@ -12,3 +12,5 @@ dependencies:
   - matplotlib
   - pandas
   - scikit-learn
+  pip:
+    - tensorflow-gpu
