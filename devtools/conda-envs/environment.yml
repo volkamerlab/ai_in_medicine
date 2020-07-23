@@ -1,0 +1,16 @@
+name: ai_in_medicine
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pip
+  - jupyter
+  - jupyterlab
+  - notebook
+  - scipy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  pip:
+    - tensorflow-gpu
