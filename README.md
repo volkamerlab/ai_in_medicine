@@ -2,15 +2,15 @@
 
 ## Schedule
 
-| Datum      | Zeit          | Raum             | Titel                  | Referenten                            | Colab URL  |
-| ---------- | ------------- | ---------------- | ---------------------- | ------------------------------------- | ---------- |
-| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | Grundkonzepte          | Jaime Rodríguez-Guerra                | [Colab][1] |
-| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | Numpy und Pandas       | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX | [Colab][2] |
-| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | Matplotlib und Seaborn | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX | [Colab][3] |
-| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | Scikit-learn           | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX | [Colab][4] |
-| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | Keras                  | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX | [Colab][5] |
-| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | CADD exercise          | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX | [Colab][6] |
-| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | Deep Learning on MRI   | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX | [Colab][7] |
+| Datum      | Zeit          | Raum             | Titel                       | Referenten                            |
+| ---------- | ------------- | ---------------- | --------------------------- | ------------------------------------- |
+| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | [Grundkonzepte][1]          | Jaime Rodríguez-Guerra                |
+| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | [Numpy und Pandas][2]       | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |
+| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | [Matplotlib und Seaborn][3] | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |
+| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | [Scikit-learn][4]           | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |
+| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | [Keras][5]                  | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |
+| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | [CADD exercise][6]          | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |
+| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | [Deep Learning on MRI][7]   | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |
 
 <!-- TODO: Update branch name to tagged release -->
 
