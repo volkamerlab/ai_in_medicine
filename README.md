@@ -2,15 +2,15 @@
 
 ## Schedule
 
-| Datum      | Zeit          | Raum             | Titel                       | Referenten                            |
-| ---------- | ------------- | ---------------- | --------------------------- | ------------------------------------- |
-| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | [Grundkonzepte][1]          | Jaime Rodríguez-Guerra                |
-| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | [Numpy und Pandas][2]       | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |
-| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | [Matplotlib und Seaborn][3] | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |
-| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | [Scikit-learn][4]           | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |
-| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | [Keras][5]                  | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |
-| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | [CADD exercise][6]          | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |
-| XXXXXXXXXX | XXXXXXXXXXXXX | XXXXXXXXXXXXXXXX | [Deep Learning on MRI][7]   | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |
+| Datum | Zeit  | Raum     | Titel                       | Referenten             |
+| ----- | ----- | -------- | --------------------------- | ---------------------- |
+| XX    | XXXXX | XXXXXXXX | [Grundkonzepte][1]          | Jaime Rodríguez-Guerra |
+| XX    | XXXXX | XXXXXXXX | [Numpy und Pandas][2]       | XXXXXXXXXXXXX          |
+| XX    | XXXXX | XXXXXXXX | [Matplotlib und Seaborn][3] | XXXXXXXXXXXXX          |
+| XX    | XXXXX | XXXXXXXX | [Scikit-learn][4]           | XXXXXXXXXXXXX          |
+| XX    | XXXXX | XXXXXXXX | [Keras][5]                  | XXXXXXXXXXXXX          |
+| XX    | XXXXX | XXXXXXXX | [CADD exercise][6]          | XXXXXXXXXXXXX          |
+| XX    | XXXXX | XXXXXXXX | [Deep Learning on MRI][7]   | XXXXXXXXXXXXX          |
 
 <!-- TODO: Update branch name to tagged release -->
 
@@ -27,5 +27,5 @@
 1. Click on the `Colab` link next to the lesson you want to open.
 2. Log in with your Google account of choice.
 3. Save a copy in your Google Drive by clicking on `Copy to Drive`.
-4. In the new tab, click on `Connect to environment`.
+4. In the new tab, click on `Connect to environment` (top right). Accept potential warnings about the origin of the notebooks.
 5. Follow the lesson!
