@@ -12,5 +12,8 @@ dependencies:
   - matplotlib
   - pandas
   - scikit-learn
+  - rdkit
+  - torch-cpu
   pip:
-    - tensorflow-gpu
+    - tensorflow
+    - nibabel
