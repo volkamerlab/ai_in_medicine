@@ -10,7 +10,7 @@
 | XX    | XXXXX | XXXXXXXX | [Scikit-learn][4]           | XXXXXXXXXXXXX          |
 | XX    | XXXXX | XXXXXXXX | [Keras][5]                  | XXXXXXXXXXXXX          |
 | XX    | XXXXX | XXXXXXXX | [CADD exercise][6]          | XXXXXXXXXXXXX          |
-| XX    | XXXXX | XXXXXXXX | [Deep Learning on MRI][7]   | XXXXXXXXXXXXX          |
+| XX    | XXXXX | XXXXXXXX | [Computer Vision][7]        | XXXXXXXXXXXXX          |
 
 <!-- TODO: Update branch name to tagged release -->
 
