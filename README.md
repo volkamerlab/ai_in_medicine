@@ -2,15 +2,15 @@
 
 ## Schedule
 
-| Datum | Zeit  | Raum     | Titel                       | Referenten             |
-| ----- | ----- | -------- | --------------------------- | ---------------------- |
-| XX    | XXXXX | XXXXXXXX | [Grundkonzepte][1]          | Jaime Rodríguez-Guerra |
-| XX    | XXXXX | XXXXXXXX | [Numpy und Pandas][2]       | XXXXXXXXXXXXX          |
-| XX    | XXXXX | XXXXXXXX | [Matplotlib und Seaborn][3] | Moritz Seiler          |
-| XX    | XXXXX | XXXXXXXX | [Scikit-learn][4]           | XXXXXXXXXXXXX          |
-| XX    | XXXXX | XXXXXXXX | [Keras][5]                  | Moritz Seiler          |
-| XX    | XXXXX | XXXXXXXX | [CADD exercise][6]          | XXXXXXXXXXXXX          |
-| XX    | XXXXX | XXXXXXXX | [Computer Vision][7]        | XXXXXXXXXXXXX          |
+| Datum      | Zeit        | Raum     | Titel                       | Referenten             |
+| ---------- | ----------- | -------- | --------------------------- | ---------------------- |
+| 2021-02-08 | 10:15-13:00 | Online   | [Grundkonzepte][1]          | Jaime Rodríguez-Guerra |
+| 2021-02-09 | 10:15-13:00 | Online   | [Numpy und Pandas][2]       | Dominique Sydow        |
+| 2021-02-10 | 10:15-13:00 | Online   | [Matplotlib und Seaborn][3] | Moritz Seiler          |
+| 2021-02-11 | 10:15-13:00 | Online   | [Scikit-learn][4]           | Roshan Prakash Rane    |
+| 2021-02-12 | 10:15-13:00 | Online   | [Keras][5]                  | Moritz Seiler          |
+| 2021-02-16 | 10:15-13:00 | Online   | [CADD exercise][6]          | David Schaller         |
+| 2021-02-18 | 10:15-13:00 | Online   | [Computer Vision][7]        | Fabian Eitel           |
 
 <!-- TODO: Update branch name to tagged release -->
 
