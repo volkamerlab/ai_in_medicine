@@ -2,22 +2,30 @@
 
 ## Schedule
 
-| Datum      | Zeit          | Raum              | Titel                  | Referenten                             |
-|------------|---------------|-------------------|------------------------|----------------------------------------|
-| Montag     | 10:45 - 13:00 | Raum 03 008 VW 5  | Grundkonzepte          | Jan Albrecht / Jaime Rodríguez-Guerra  |
-| Mittwoch   | 09:00 - 11:00 | Raum 03 008 VW 5  | Numpy und Pandas       | Dominique Sydow / Moritz Seiler        |
-|            | 11:00 - 13:00 | Raum 03 008 VW 5  | Matplotlib und Seaborn | Moritz Seiler / Andrea Morger          |
-| Donnerstag | 10:45 - 13:00 | Raum 03 008 VW 5  | Scikit-learn           | Jaime Rodríguez-Guerra / Jan Albrecht  |
-| Freitag    | 10:45 - 13:00 | Raum 03 008 VW 5  | Keras                  | Fabian Eitel / Talia Kimber            |
+| Datum      | Zeit        | Raum     | Titel                       | Referenten             |
+| ---------- | ----------- | -------- | --------------------------- | ---------------------- |
+| 2021-02-08 | 10:15-13:00 | Online   | [Grundkonzepte][1]          | Jaime Rodríguez-Guerra |
+| 2021-02-09 | 10:15-13:00 | Online   | [Numpy und Pandas][2]       | Dominique Sydow        |
+| 2021-02-10 | 10:15-13:00 | Online   | [Matplotlib und Seaborn][3] | Moritz Seiler          |
+| 2021-02-11 | 10:15-13:00 | Online   | [Scikit-learn][4]           | Roshan Prakash Rane    |
+| 2021-02-12 | 10:15-13:00 | Online   | [Keras][5]                  | Moritz Seiler          |
+| 2021-02-16 | 10:15-13:00 | Online   | [CADD exercise][6]          | David Schaller         |
+| 2021-02-18 | 10:15-13:00 | Online   | [Computer Vision][7]        | Fabian Eitel           |
+
+<!-- TODO: Update branch name to tagged release -->
+
+[1]: https://colab.research.google.com/github/volkamerlab/ai_in_medicine/blob/update-2021.02/week1_session1_grundkonzepte.ipynb
+[2]: https://colab.research.google.com/github/volkamerlab/ai_in_medicine/blob/update-2021.02/week1_session2_numpy_pandas.ipynb
+[3]: https://colab.research.google.com/github/volkamerlab/ai_in_medicine/blob/update-2021.02/week1_session3_matplotlib.ipynb
+[4]: https://colab.research.google.com/github/volkamerlab/ai_in_medicine/blob/update-2021.02/week1_session4_intro_to_ml_and_scikit_learn.ipynb
+[5]: https://colab.research.google.com/github/volkamerlab/ai_in_medicine/blob/update-2021.02/week1_session5_deep_learning.ipynb
+[6]: https://colab.research.google.com/github/volkamerlab/ai_in_medicine/blob/update-2021.02/week2_session1_cadd_exercise.ipynb
+[7]: https://colab.research.google.com/github/volkamerlab/ai_in_medicine/blob/update-2021.02/week2_session2_images-MRI-dl.ipynb
 
 ## How to start using this material
 
-1. Log in [notebooks.azure.com](https://notebooks.azure.com/) (top right corner, `Sign In`) with your `@charite.de` email and password.
-2. Once you see your user profile, click on `See all`, on your right.
-3. In this page, press `Upload GitHub repo` and provide this information:
-    * GitHub repository: `volkamerlab/ai_in_medicine`
-4. Press `Import`.
-5. After a few moments, you will see the project in your workspace. Click on the first notebook to start!
-6. For the successive days, you will be able to go directly to your imported project without repeating steps 1-4.
-
-> __Note__: The Jupyter environment will start immediately but some software must be installed in the background for the code to work correctly. Please, start the environment ~10 minutes before the practical lessons start (except for the first day).
+1. Click on the `Colab` link next to the lesson you want to open.
+2. Log in with your Google account of choice.
+3. Save a copy in your Google Drive by clicking on `Copy to Drive`.
+4. In the new tab, click on `Connect to environment` (top right). Accept potential warnings about the origin of the notebooks.
+5. Follow the lesson!
