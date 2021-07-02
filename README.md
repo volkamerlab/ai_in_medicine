@@ -20,7 +20,7 @@
 [4]: https://colab.research.google.com/github/volkamerlab/ai_in_medicine/blob/master/week1_session4_intro_to_ml_and_scikit_learn.ipynb
 [5]: https://colab.research.google.com/github/volkamerlab/ai_in_medicine/blob/master/week1_session5_deep_learning.ipynb
 [6]: https://colab.research.google.com/github/volkamerlab/ai_in_medicine/blob/master/week2_session1_cadd_exercise.ipynb
-[7]: https://colab.research.google.com/github/volkamerlab/ai_in_medicine/blob/master/week2_session2_images-MRI-dl.ipynb
+[7]: https://colab.research.google.com/github/volkamerlab/ai_in_medicine/blob/master/week2_session2_images_MRI_dl.ipynb
 
 ## How to start using this material
 
