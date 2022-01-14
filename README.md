@@ -5,12 +5,12 @@
 | Datum      | Zeit        | Raum   | Titel                       | Referenten             |
 | ---------- | ----------- | ------ | --------------------------- | ---------------------- |
 | 2022-01-24 | 10:15-13:00 | Online | [Grundkonzepte][1]          | Corey Taylor           |
-| 2022-01-25 | 10:15-13:00 | Online | [Numpy und Pandas][2]       | Dominique Sydow        |
+| 2022-01-25 | 10:15-13:00 | Online | [Numpy und Pandas][2]       | Corey Taylor           |
 | 2022-01-26 | 10:15-13:00 | Online | [Matplotlib und Seaborn][3] | Moritz Seiler          |
 | 2022-01-27 | 10:15-13:00 | Online | [Scikit-learn][4]           | Roshan Prakash Rane    |
 | 2022-01-28 | 10:15-13:00 | Online | [Keras][5]                  | Moritz Seiler          |
 | 2022-02-01 | 10:15-13:00 | Online | [CADD exercise][6]          | David Schaller         |
-| 2022-02-03 | 10:15-13:00 | Online | [Computer Vision][7]        | Fabian Eitel           |
+| 2022-02-03 | 10:15-13:00 | Online | [Computer Vision][7]        | Marc-Andre Schulz      |
 
 <!-- TODO: Update branch name to tagged release -->
 
